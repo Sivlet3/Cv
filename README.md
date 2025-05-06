@@ -13,7 +13,7 @@
     <a href="https://github.com/Sivlet3>About Me</a>
   </p>
 </p>
-<!-->
+<!-- "
 ![GitHub contributors](https://gitimg.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
@@ -22,7 +22,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/hashirshoaeb?color=ffcc66&logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/hashirshoaeb)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=^22.12.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.9.0&color=cb0000&style=for-the-badge)](https://nodejs.org)
-
+"-->
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](hashirshoaebhttps://github.com/Sivlet3)
+[![Site preview]("imagen")](https://github.com/Sivlet3)
 
 
 ## Technology stack 🛠️
