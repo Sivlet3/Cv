@@ -13,7 +13,7 @@
     <a href="https://github.com/Sivlet3>About Me</a>
   </p>
 </p>
-
+<!-->
 ![GitHub contributors](https://gitimg.shields.io/github/contributors/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/hashirshoaeb/home?color=ffcc66&style=for-the-badge)
 [![GitHub forks](https://img.shields.io/github/forks/hashirshoaeb/home?style=for-the-badge)](https://github.com/hashirshoaeb/star_book/network)
@@ -69,7 +69,7 @@
 
 # About the project
 
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
+[![Site preview](/public/social-image.png)](hashirshoaebhttps://github.com/Sivlet3)
 
 
 ## Technology stack 🛠️
@@ -167,14 +167,14 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
+Facing issues? Feel free to contact at Sivlet3ck@gmail.com.
 
 # Support my work
 
 If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
 
 <div>
-  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.buymeacoffee.com/" /></a>
  </div>
 
 # Showcase 🚀
@@ -243,8 +243,8 @@ Novas contribuições e revisões na tradução são muito bem vindas!
 
 # Notice:
 
-This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/hashirshoaeb/portfolio)
+This project has been **archived**. Means that it is no longer actively maintained by developer. Free free to fork, use and maintain your own version. You can check my new portfolio template [here](https://github.com/Sivlet3)
 
 # Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/hashirshoaeb/home.svg)](https://starchart.cc/hashirshoaeb/home)
+[![Stargazers over time](https://github.com/Sivlet3)](https://github.com/Sivlet3)
